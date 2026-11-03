@@ -1,3 +1,4 @@
+
 @extends('layouts.app')
 
 @section('title', 'Daftar Akun Mahasiswa Baru — CeLOE LMS')
